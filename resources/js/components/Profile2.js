@@ -48,13 +48,13 @@ export default function MediaCard() {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        <Button size="small" color="primary" component="a" href="https://github.com/seyon123">
+        <Button size="small" color="primary" component="a" href="https://github.com/seyon123/" target="_blank">
           GitHub
         </Button>
-        <Button size="small" color="primary" component="a" href="https://www.linkedin.com/in/seyon-rajagopal/">
+        <Button size="small" color="primary" component="a" href="https://www.linkedin.com/in/seyon-rajagopal/" target="_blank">
           LinkedIn
         </Button>
-        <Button size="small" color="primary" component="a" href="https://seyonrajagopal.ca">
+        <Button size="small" color="primary" component="a" href="https://seyonrajagopal.ca/" target="_blank">
           Website
         </Button>
       </CardActions>
